@@ -1,4 +1,4 @@
-# SerialServoBridgeServer
+# SerialServoBridgeServer [![Build Status](https://travis-ci.org/Nixes/SerialServoBridgeServer.svg)](https://travis-ci.org/Nixes/SerialServoBridgeServer)
 TCP->Serial Bridge, for controlling servos
 Connects to an arduino servo controller over a serial connection and
 allows control using a tcp connection.
