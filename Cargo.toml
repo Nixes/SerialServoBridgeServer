@@ -1,0 +1,8 @@
+[package]
+name = "ServoBridgeTcpServer"
+version = "0.1.0"
+authors = ["Nixes"]
+
+[dependencies]
+serial = "0.3"
+time = "0.1.34"
