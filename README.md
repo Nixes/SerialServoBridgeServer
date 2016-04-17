@@ -8,3 +8,4 @@ Arduino sketch supplied in root folder
 Currently only controls two servos, but should be easy to add more.
 
 #Protocol
+0xFE, pan (as an integer), tit (as an integer), 0xFF
